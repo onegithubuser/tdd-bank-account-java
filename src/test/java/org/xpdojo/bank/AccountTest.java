@@ -10,7 +10,6 @@ import static org.junit.Assert.assertThat;
 public class AccountTest {
 
     @Test
-	@Disabled
     public void depositAnAmountToIncreaseTheBalance() {
         Account account = new Account();
 
